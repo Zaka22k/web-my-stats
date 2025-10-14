@@ -3,4 +3,41 @@
   "sql_score": 800,
   "python_score": 915,
   "completed_labs": 4
+  "labs" : [
+  {
+    "href": "lab1",
+    "title": "Лабораторная работа №1",
+    "shortTitle": "Лаб. 1",
+    "subtitle": "Основы HTML и CSS",
+    "tasks": 10
+  },
+  {
+    "href": "lab2",
+    "title": "Лабораторная работа №2",
+    "shortTitle": "Лаб. 2",
+    "subtitle": "Настройка конфигурации nginx. Основы вёрстки",
+    "tasks": 9
+  },
+  {
+    "href": "lab3",
+    "title": "Лабораторная работа №3",
+    "shortTitle": "Лаб. 3",
+    "subtitle": "Расширенная настройка конфигурации nginx. Flexbox",
+    "tasks": 6
+  },
+  {
+    "href": "lab4",
+    "title": "Лабораторная работа №4",
+    "shortTitle": "Лаб. 4",
+    "subtitle": "Основы Javascript",
+    "tasks": 8
+  },
+  {
+    "href": "lab5",
+    "title": "Лабораторная работа №5",
+    "shortTitle": "Лаб. 5",
+    "subtitle": "Основы Javascript. Обработка событий, таймеры, формы",
+    "tasks": 9
+  }
+]
 }
