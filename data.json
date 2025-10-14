@@ -1,8 +1,8 @@
 {
-  "update_at": "10.10.2025",
+  "update_at": "15.10.2025",
   "sql_score": 800,
   "python_score": 915,
-  "completed_labs": 4,
+  "completed_labs": 5,
   "labs": [
     {
       "href": "lab1",
