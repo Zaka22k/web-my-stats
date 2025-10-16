@@ -2,42 +2,36 @@
   "update_at": "15.10.2025",
   "sql_score": 890,
   "python_score": 1065,
-  "completed_labs": 5,
   "labs": [
     {
-      "href": "lab1",
-      "title": "Лабораторная работа №1",
-      "shortTitle": "Лаб. 1",
-      "subtitle": "Основы HTML и CSS",
-      "tasks": 10
+      "lab_id": 1,
+      "title": "Основы HTML и CSS",
+      "tasks": 10,
+      "completed" : true
     },
     {
-      "href": "lab2",
-      "title": "Лабораторная работа №2",
-      "shortTitle": "Лаб. 2",
-      "subtitle": "Настройка конфигурации nginx. Основы вёрстки",
-      "tasks": 9
+      "lab_id": 2,
+      "title": "Настройка конфигурации nginx. Основы вёрстки",
+      "tasks": 9,
+      "completed" : true
     },
     {
-      "href": "lab3",
-      "title": "Лабораторная работа №3",
-      "shortTitle": "Лаб. 3",
-      "subtitle": "Расширенная настройка конфигурации nginx. Flexbox",
-      "tasks": 6
+      "lab_id": 3,
+      "title": "Расширенная настройка конфигурации nginx. Flexbox",
+      "tasks": 6,
+      "completed" : true
     },
     {
-      "href": "lab4",
-      "title": "Лабораторная работа №4",
-      "shortTitle": "Лаб. 4",
-      "subtitle": "Основы Javascript",
-      "tasks": 8
+      "lab_id": 4,
+      "title": "Основы Javascript",
+      "tasks": 8,
+      "completed" : true
     },
     {
-      "href": "lab5",
-      "title": "Лабораторная работа №5",
-      "shortTitle": "Лаб. 5",
-      "subtitle": "Основы Javascript. Обработка событий, таймеры, формы",
-      "tasks": 9
+      "lab_id": 5,
+      "title": "Основы Javascript. Обработка событий, таймеры, формы",
+      "tasks": 9,
+      "completed" : true
     }
   ]
 }
